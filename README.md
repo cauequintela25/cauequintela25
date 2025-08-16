@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Minhas linguagem e tools</h2>
+<h2 align="left">Minhas linguagens e tools</h2>
 
 ###
 

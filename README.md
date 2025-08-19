@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Minhas linguagens e tools</h2>
+<h2 align="left">Os idiomas que gosto e quero aprender no futuro e ferramentas também</h2>
 
 ###
 
